@@ -1,0 +1,30 @@
+html,
+body {
+  position: relative;
+  scroll-behavior: smooth;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  color: #333;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  background-image: linear-gradient(
+    to right top,
+    #fdf6f0,
+    #fcf2ea,
+    #fbeee3,
+    #faebdd,
+    #f9e7d7,
+    #f8e3d1,
+    #f8dfcb,
+    #f7dbc5,
+    #f6d6be,
+    #f6d1b7,
+    #f5cbb0,
+    #f5c6aa
+  );
+}
