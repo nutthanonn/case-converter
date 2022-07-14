@@ -1,3 +1,5 @@
+Idea from [Click-it!!](https://it-tools.tech/case-converter)
+
 # Installation
 
 ```
