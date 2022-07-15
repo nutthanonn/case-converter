@@ -5,6 +5,7 @@ import ConvertPascalCase from "../helpers/PascalCase";
 import ConvertSnakeCase from "../helpers/SnakeCase";
 
 const CaseProvider = (c, str) => {
+  str = str.toLowerCase()
   switch (c) {
     case "camel":
       return ConvertCamelCase(str);
